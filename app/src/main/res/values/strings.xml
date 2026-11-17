@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s30" formatted="false">"Timer finished"</string>
+    <string name="s41" formatted="false">"(no errors logged yet)"</string>
+    <string name="s59" formatted="false">"Sample Headset"</string>
+    <string name="s63" formatted="false">"Incoming call"</string>
+    <string name="s97" formatted="false">"Message content is hidden on the lock screen. Unlock to read."</string>
+    <string name="s98" formatted="false">"Message content is hidden in settings."</string>
+    <string name="s99" formatted="false">"Open"</string>
+    <string name="s100" formatted="false">"Next"</string>
+    <string name="s101" formatted="false">"Close"</string>
+    <string name="s102" formatted="false">"This player does not support seeking."</string>
+    <string name="s103" formatted="false">"This player does not offer this action."</string>
+    <string name="s107" formatted="false">"Replying is not available for this notification. Tap Open."</string>
+    <string name="s108" formatted="false">"Reply"</string>
+    <string name="s109" formatted="false">"Action"</string>
+    <string name="s110" formatted="false">"This action is no longer available."</string>
+    <string name="s111" formatted="false">"Write a reply…"</string>
+    <string name="s112" formatted="false">"The reply is sent through the original app."</string>
+    <string name="s113" formatted="false">"Send"</string>
+    <string name="s114" formatted="false">"Cancel"</string>
+    <string name="s115" formatted="false">"Write a reply first"</string>
+    <string name="s116" formatted="false">"The reply is no longer available. Open the original app."</string>
+    <string name="s117" formatted="false">"Reply forwarded to the original app"</string>
+    <string name="s118" formatted="false">"Could not forward the reply. Your text is kept; try again or open the original app."</string>
+    <string name="s119" formatted="false">"LYRICS  ·  LRCLIB"</string>
+    <string name="s121" formatted="false">"Online lyrics are turned off. Turn them on in Fyland settings."</string>
+    <string name="s122" formatted="false">"Loading lyrics…"</string>
+    <string name="s126" formatted="false">"Resume"</string>
+    <string name="s127" formatted="false">"Pause"</string>
+    <string name="s128" formatted="false">"Lap"</string>
+    <string name="s158" formatted="false">"Call action unavailable. Open the phone app."</string>
+    <string name="s159" formatted="false">"This call action is no longer available."</string>
+    <string name="s160" formatted="false">"Incoming call · "</string>
+    <string name="s161" formatted="false">"Ongoing call · "</string>
+    <string name="s162" formatted="false">"This notification has expired. Open the original app."</string>
+    <string name="s163" formatted="false">"Active"</string>
+    <string name="s164" formatted="false">"Paused"</string>
+    <string name="s165" formatted="false">"Like"</string>
+    <string name="s166" formatted="false">"Shuffle"</string>
+    <string name="s167" formatted="false">"Previous song"</string>
+    <string name="s168" formatted="false">"Next song"</string>
+    <string name="s169" formatted="false">"Repeat"</string>
+    <string name="s170" formatted="false">"Add"</string>
+    <string name="s171" formatted="false">"Play"</string>
+    <string name="s173" formatted="false">"Fyland is active"</string>
+    <string name="s174" formatted="false">"Island is running in the background."</string>
+    <string name="s181" formatted="false">"Title or artist is not available from the player."</string>
+    <string name="s182" formatted="false">"The lyrics service is limiting requests. Try again later."</string>
+    <string name="s187" formatted="false">"Could not load lyrics. Check your internet, then open the panel again."</string>
+    <string name="s193" formatted="false">"The lyrics service is limiting requests. Try again later."</string>
+    <string name="s194" formatted="false">"Lyrics for this song are not available on LRCLIB."</string>
+    <string name="s195" formatted="false">"The lyrics service is unavailable. Try again later."</string>
+    <string name="s198" formatted="false">"Instrumental · no lyrics."</string>
+    <string name="s201" formatted="false">"LRCLIB · unsynced lyrics"</string>
+    <string name="s202" formatted="false">"LRCLIB · synced lyrics"</string>
+    <string name="s205" formatted="false">"Song lyrics; scrolls automatically with the line timing"</string>
+    <string name="s206" formatted="false">"Lyrics not available."</string>
+    <string name="s209" formatted="false">"Example: London (empty = automatic location)"</string>
+    <string name="s211" formatted="false">"City for weather"</string>
+    <string name="s212" formatted="false">"Save"</string>
+    <string name="s216" formatted="false">"Allow restricted settings"</string>
+    <string name="s217" formatted="false">"Android blocks this permission for apps installed from an APK file.\n\nOn the next page: tap the three dots \u22EE at the top right, choose \"Allow restricted settings\", then confirm. After that press Back; the permission page you were on opens automatically."</string>
+    <string name="s219" formatted="false">"Open this permission in Android Settings."</string>
+    <string name="s220" formatted="false">"Error log"</string>
+    <string name="s221" formatted="false">"Copy"</string>
+    <string name="s223" formatted="false">"Log copied"</string>
+    <string name="s224" formatted="false">"Delete"</string>
+    <string name="s226" formatted="false">"Notifications, music, and battery.\nOne place. All features free."</string>
+    <string name="s228" formatted="false">"●  Active · layer above the status bar"</string>
+    <string name="s229" formatted="false">"●  Active · regular overlay mode"</string>
+    <string name="s230" formatted="false">"●  Permissions ready · waiting for Android to connect"</string>
+    <string name="s231" formatted="false">"○  Finish the permissions below"</string>
+    <string name="s232" formatted="false">"01  /  START HERE"</string>
+    <string name="s233" formatted="false">"Connect the island"</string>
+    <string name="s234" formatted="false">"Notification access to read the messages shown. Overlay permission to show them above other apps."</string>
+    <string name="s235" formatted="false">"Display over other apps"</string>
+    <string name="s236" formatted="false">"Notification access"</string>
+    <string name="s237" formatted="false">"Layer above the status bar"</string>
+    <string name="s238" formatted="false">"•  Allow restricted settings (Android 13+)"</string>
+    <string name="s239" formatted="false">"In the Accessibility menu, choose Fyland · status bar layer. This permission is only for drawing over the bar; it does not read the screen or control touches."</string>
+    <string name="s240" formatted="false">"Enable island"</string>
+    <string name="s241" formatted="false">"Show the island when a notification arrives."</string>
+    <string name="s243" formatted="false">"Try a sample notification"</string>
+    <string name="s244" formatted="false">"Choose apps"</string>
+    <string name="s245" formatted="false">"02  /  NOTIFICATIONS"</string>
+    <string name="s246" formatted="false">"Block All · native notifications"</string>
+    <string name="s247" formatted="false">"An app's own notification is removed as soon as it arrives, so only the island is shown. Repliable chats are removed too (replying through the island still works). Music, calls, alarms and ongoing notifications are kept."</string>
+    <string name="s248" formatted="false">"Enable Block All?"</string>
+    <string name="s249" formatted="false">"Regular notifications will be removed from the Android panel as soon as they arrive and shown only in the island. A copy is kept temporarily in the island's memory (max. 30). Call, alarm, music and ongoing notifications are kept. Screen off or locked: notifications are not removed."</string>
+    <string name="s250" formatted="false">"Enable"</string>
+    <string name="s251" formatted="false">"Mute native pop-ups"</string>
+    <string name="s252" formatted="false">"While Block All is on, apps' notification channels are lowered from High to Default so the native heads-up pop-up no longer appears. Sound stays. Restored automatically when this option or Block All is turned off."</string>
+    <string name="s253" formatted="false">"Keep repliable notifications"</string>
+    <string name="s254" formatted="false">"Turn on if replying through the island fails in a certain app. Chats will appear twice (island + native)."</string>
+    <string name="s255" formatted="false">"Auto-open details"</string>
+    <string name="s256" formatted="false">"Expand the island right away when a notification arrives."</string>
+    <string name="s257" formatted="false">"Show message content"</string>
+    <string name="s258" formatted="false">"If off, the island only shows the app name."</string>
+    <string name="s259" formatted="false">"Silent notifications"</string>
+    <string name="s260" formatted="false">"Include notifications without sound."</string>
+    <string name="s261" formatted="false">"Always active in the background"</string>
+    <string name="s262" formatted="false">"Shows a small silent notification so Android does not kill the island. Recommended to keep on so the island is always visible."</string>
+    <string name="s263" formatted="false">"Hide in landscape"</string>
+    <string name="s264" formatted="false">"If off, the island appears as a vertical pill beside the camera in landscape (like in games). Tap the pill to open details."</string>
+    <string name="s265" formatted="false">"Message content on the lock screen"</string>
+    <string name="s266" formatted="false">"If off (recommended), the island on the lock screen only shows the app name, with no message content and no reply button."</string>
+    <string name="s267" formatted="false">"Display time"</string>
+    <string name="s268" formatted="false">" sec"</string>
+    <string name="s269" formatted="false">"03  /  SIZE &amp; POSITION"</string>
+    <string name="s270" formatted="false">"Pill width"</string>
+    <string name="s271" formatted="false">"Notification pill width"</string>
+    <string name="s272" formatted="false">"Pill height"</string>
+    <string name="s273" formatted="false">"Distance from top"</string>
+    <string name="s274" formatted="false">"Shift left / right"</string>
+    <string name="s275" formatted="false">"Keep status bar icon space"</string>
+    <string name="s276" formatted="false">"Pill width is limited to the middle space. The original status bar icons are not moved or hidden. The detail panel opens from the top edge and covers the bar area if the status bar layer permission is active."</string>
+    <string name="s277" formatted="false">"Left clock space"</string>
+    <string name="s278" formatted="false">"Right icon space"</string>
+    <string name="s279" formatted="false">"Cover status bar during notifications"</string>
+    <string name="s280" formatted="false">"When there is a notification (portrait), the original status bar icons are covered by a black strip and only the clock on the left and the battery on the right are redrawn beside the island. The original icons are not actually moved. Requires the status bar layer to be active."</string>
+    <string name="s281" formatted="false">"Clock / battery distance from edge"</string>
+    <string name="s282" formatted="false">"03b  /  LANDSCAPE"</string>
+    <string name="s283" formatted="false">"Landscape pill thickness"</string>
+    <string name="s284" formatted="false">"Landscape pill length"</string>
+    <string name="s285" formatted="false">"Distance from screen edge"</string>
+    <string name="s286" formatted="false">"Shift up / down"</string>
+    <string name="s287" formatted="false">"04  /  SWIPE ISLAND &amp; POPUPS"</string>
+    <string name="s288" formatted="false">"Swipe pages"</string>
+    <string name="s289" formatted="false">"When the island is empty or playing music, swipe left: app shortcuts (WhatsApp, Clock, Recorder, Notes, Music). Swipe again for weather. Swipe right still reads notifications."</string>
+    <string name="s290" formatted="false">"Swipe page tools"</string>
+    <string name="s291" formatted="false">"Weather uses the network location if the city is left empty. The voice recorder saves to Music/Fyland."</string>
+    <string name="s292" formatted="false">"05  /  IPHONE STYLE · ANIMATIONS &amp; EVENTS"</string>
+    <string name="s293" formatted="false">"iPhone-style spring animation"</string>
+    <string name="s294" formatted="false">"The island stretches and shrinks with a springy motion (slight bounce), content appears with zoom and blur. Turn off if your phone feels slow."</string>
+    <string name="s295" formatted="false">"Blur when content appears"</string>
+    <string name="s296" formatted="false">"Android 12 and up. Turn off if the animation stutters."</string>
+    <string name="s297" formatted="false">"Silent / Ring"</string>
+    <string name="s298" formatted="false">"Bell pill when the ring mode is changed."</string>
+    <string name="s300" formatted="false">"Focus / Do Not Disturb"</string>
+    <string name="s301" formatted="false">"Moon pill when Do Not Disturb is turned on or off."</string>
+    <string name="s303" formatted="false">"Flashlight"</string>
+    <string name="s304" formatted="false">"Flashlight pill when the flashlight is turned on or off."</string>
+    <string name="s306" formatted="false">"Low battery"</string>
+    <string name="s307" formatted="false">"Red pill at 20%, 10% and 5% when not charging."</string>
+    <string name="s309" formatted="false">"Bluetooth connected"</string>
+    <string name="s310" formatted="false">"Headphone pill when a Bluetooth device connects. The device name needs the Nearby devices permission."</string>
+    <string name="s312" formatted="false">"Microphone in use"</string>
+    <string name="s313" formatted="false">"Orange dot with a waveform while an app is recording audio. Indicator only; the island does not listen to anything."</string>
+    <string name="s314" formatted="false">"Timer, stopwatch and alarm"</string>
+    <string name="s315" formatted="false">"Countdown pill from the clock app's notification. Tap for the Stop/Pause buttons."</string>
+    <string name="s317" formatted="false">"Face unlock detected on this phone. "</string>
+    <string name="s318" formatted="false">"Face unlock was not detected automatically (some brands hide it); you can still turn it on manually. "</string>
+    <string name="s319" formatted="false">"A pill with a face-scan animation and a checkmark appears when the lock screen opens quickly after the screen turns on. Android does not tell how the unlock happened, so this is an estimate: a very fast fingerprint unlock can trigger it too. Only for secure screen locks (PIN, pattern or biometrics)."</string>
+    <string name="s321" formatted="false">"Phone calls"</string>
+    <string name="s322" formatted="false">"Incoming calls show Decline and Answer buttons; ongoing calls show the duration."</string>
+    <string name="s324" formatted="false">"Try all animations"</string>
+    <string name="s325" formatted="false">"04  /  MUSIC &amp; POWER"</string>
+    <string name="s326" formatted="false">"Music controls"</string>
+    <string name="s327" formatted="false">"Reads the active music session. Title, progress and controls are shown while a session is available."</string>
+    <string name="s328" formatted="false">"Cover as background"</string>
+    <string name="s329" formatted="false">"The song cover shows behind a gradient of its dominant colour, behind the lyrics and controls."</string>
+    <string name="s330" formatted="false">"Music pill width"</string>
+    <string name="s331" formatted="false">"Online lyrics when the panel opens"</string>
+    <string name="s332" formatted="false">"Fetched from LRCLIB only after the music island is tapped. The song title, artist, album and duration are sent for the search; notification content and replies are not sent."</string>
+    <string name="s333" formatted="false">"Charging"</string>
+    <string name="s334" formatted="false">"Show the percentage when a charger is connected."</string>
+    <string name="s336" formatted="false">"06  /  ERROR LOG"</string>
+    <string name="s337" formatted="false">"Records errors from all island features (notifications, music, weather, recorder, calendar, Face Unlock, and more) along with app crashes. Copy and send it for diagnosis."</string>
+    <string name="s338" formatted="false">"View error log"</string>
+    <string name="s339" formatted="false">"View error log ("</string>
+    <string name="s340" formatted="false">"How to use"</string>
+    <string name="s341" formatted="false">"Tap the pill to open details; tap outside the panel to close. Hold to open the original app. Swipe left/right for other notifications. Press Close to remove the copy from the island.\n\nOn Tecno, allow background activity if the island stops after the screen turns off. The internet is only used for LRCLIB lyrics lookup when the music panel is opened. Camera, microphone, location, contacts and other permissions are requested automatically when the app opens and are only used by the related feature. The status bar layer mode uses accessibility for drawing only. Turn this layer on so the island is always shown from boot and on the lock screen."</string>
+    <string name="s342" formatted="false">"FYLAND  1.0\nBuilt from scratch · no ads · no account"</string>
+    <string name="s368" formatted="false">"Turn on the display-over-other-apps permission first."</string>
+    <string name="s369" formatted="false">"Turn on notification access first, then try again."</string>
+    <string name="s370" formatted="false">"Your island is ready"</string>
+    <string name="s371" formatted="false">"Notifications show up here. Tap for details, hold to open the app."</string>
+    <string name="s372" formatted="false">"Apps shown in the island"</string>
+    <string name="s407" formatted="false">"New notification"</string>
+    <string name="s409" formatted="false">"Music"</string>
+    <string name="s410" formatted="false">"Player active"</string>
+    <string name="s412" formatted="false">"Music player"</string>
+    <string name="s423" formatted="false">"APPS"</string>
+    <string name="s427" formatted="false">"Clock"</string>
+    <string name="s429" formatted="false">"Calendar"</string>
+    <string name="s430" formatted="false">"Recorder"</string>
+    <string name="s433" formatted="false">"Notes"</string>
+    <string name="s434" formatted="false">"WEATHER"</string>
+    <string name="s435" formatted="false">"Try again"</string>
+    <string name="s436" formatted="false">"Loading weather…"</string>
+    <string name="s440" formatted="false">"Pick a duration first."</string>
+    <string name="s443" formatted="false">"− h"</string>
+    <string name="s444" formatted="false">"+ h"</string>
+    <string name="s445" formatted="false">"−5 min"</string>
+    <string name="s446" formatted="false">"+5 min"</string>
+    <string name="s447" formatted="false">"Create alarm"</string>
+    <string name="s448" formatted="false">"Alarm "</string>
+    <string name="s449" formatted="false">" created"</string>
+    <string name="s450" formatted="false">"The clock app on this phone cannot create alarms automatically."</string>
+    <string name="s456" formatted="false">"(untitled)"</string>
+    <string name="s457" formatted="false">"Allow calendar access so events can be viewed and created right from the island."</string>
+    <string name="s458" formatted="false">"Allow calendar"</string>
+    <string name="s459" formatted="false">"UPCOMING"</string>
+    <string name="s460" formatted="false">"No events in the next 7 days."</string>
+    <string name="s461" formatted="false">"New event name"</string>
+    <string name="s462" formatted="false">"−1 day"</string>
+    <string name="s463" formatted="false">"+1 day"</string>
+    <string name="s464" formatted="false">"+1 week"</string>
+    <string name="s465" formatted="false">"−1 h"</string>
+    <string name="s466" formatted="false">"+1 h"</string>
+    <string name="s467" formatted="false">"−15 min"</string>
+    <string name="s468" formatted="false">"+15 min"</string>
+    <string name="s469" formatted="false">"Save event"</string>
+    <string name="s470" formatted="false">"Enter an event name"</string>
+    <string name="s471" formatted="false">"Event saved: "</string>
+    <string name="s472" formatted="false">"Could not save. Make sure there is a writable calendar on this phone."</string>
+    <string name="s474" formatted="false">"Type a note…"</string>
+    <string name="s476" formatted="false">"The note is still empty."</string>
+    <string name="s477" formatted="false">"Note copied"</string>
+    <string name="s478" formatted="false">"Paste"</string>
+    <string name="s479" formatted="false">"The clipboard is empty."</string>
+    <string name="s480" formatted="false">"Could not read the clipboard."</string>
+    <string name="s481" formatted="false">"WhatsApp was not found on this phone."</string>
+    <string name="s485" formatted="false">"To show WhatsApp floating, turn on \"Enable freeform windows\" in Developer options and restart the phone. For now a quick-reply window opens instead."</string>
+    <string name="s486" formatted="false">"Could not open WhatsApp."</string>
+    <string name="s489" formatted="false">"🎵  Music"</string>
+    <string name="s490" formatted="false">"🎙  Voice recorder"</string>
+    <string name="s492" formatted="false">"WhatsApp was not found."</string>
+    <string name="s497" formatted="false">"WebView is not available; using the quick reply list."</string>
+    <string name="s498" formatted="false">"No WhatsApp messages yet.\nIncoming messages appear here and can be replied to right away."</string>
+    <string name="s499" formatted="false">"Open WhatsApp"</string>
+    <string name="s500" formatted="false">"The reply is no longer available. Open WhatsApp."</string>
+    <string name="s501" formatted="false">"\nYou: "</string>
+    <string name="s502" formatted="false">"Reply forwarded to WhatsApp"</string>
+    <string name="s503" formatted="false">"Could not send. Your text is kept; try again or open WhatsApp."</string>
+    <string name="s504" formatted="false">"No music is playing yet."</string>
+    <string name="s505" formatted="false">"Open music player"</string>
+    <string name="s506" formatted="false">"No music player found."</string>
+    <string name="s507" formatted="false">"Untitled"</string>
+    <string name="s509" formatted="false">"Tap to start recording"</string>
+    <string name="s510" formatted="false">"Stop"</string>
+    <string name="s511" formatted="false">"Record"</string>
+    <string name="s512" formatted="false">"Allow the microphone for Fyland first."</string>
+    <string name="s513" formatted="false">"The recorder could not start: "</string>
+    <string name="s515" formatted="false">"Voice recorder"</string>
+    <string name="s516" formatted="false">"Recording audio"</string>
+    <string name="s517" formatted="false">"The recorder service could not start."</string>
+    <string name="s522" formatted="false">"Recording…"</string>
+    <string name="s523" formatted="false">"Recording failed: "</string>
+    <string name="s524" formatted="false">"microphone permission?"</string>
+    <string name="s525" formatted="false">"Saved: Music/Fyland/"</string>
+    <string name="s554" formatted="false">"City \""</string>
+    <string name="s555" formatted="false">"\" was not found."</string>
+    <string name="s561" formatted="false">"Location unknown. Enter a city in settings."</string>
+    <string name="s575" formatted="false">"Could not load the weather. Check your internet connection."</string>
+    <string name="s591" formatted="false">"Weather server replied "</string>
+    <string name="s592" formatted="false">"Clear"</string>
+    <string name="s593" formatted="false">"Partly cloudy"</string>
+    <string name="s594" formatted="false">"Cloudy"</string>
+    <string name="s595" formatted="false">"Foggy"</string>
+    <string name="s596" formatted="false">"Drizzle"</string>
+    <string name="s597" formatted="false">"Rain"</string>
+    <string name="s598" formatted="false">"Snow"</string>
+    <string name="s599" formatted="false">"Showers"</string>
+    <string name="s600" formatted="false">"Snow showers"</string>
+    <string name="s601" formatted="false">"Thunderstorm"</string>
+    <string name="s602" formatted="false">"My location"</string>
+    <string name="s603" formatted="false">"Hourly forecast"</string>
+    <string name="access_label" formatted="false">"Fyland · status bar layer"</string>
+    <string name="listener_label" formatted="false">"Fyland · notification access"</string>
+    <string name="access_description" formatted="false">"Shows Fyland on a visual layer above the status bar. This service does not read screen content, does not receive accessibility events, and does not control touches. Notification access is granted separately."</string>
+</resources>

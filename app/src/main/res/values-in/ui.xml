@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="u_nav_home" formatted="false">"Beranda"</string>
+    <string name="u_nav_features" formatted="false">"Fitur"</string>
+    <string name="u_nav_settings" formatted="false">"Pengaturan"</string>
+    <string name="u_nav_about" formatted="false">"Tentang"</string>
+    <string name="u_hero_tag1" formatted="false">"Lebih dari sekadar island."</string>
+    <string name="u_hero_tag2" formatted="false">"Pengalaman yang lebih pintar, lebih cantik, dan lebih berguna."</string>
+    <string name="u_st_ok_t" formatted="false">"Selamat datang di Fyland!"</string>
+    <string name="u_st_ok_d" formatted="false">"Ketuk untuk coba notifikasi contoh ✨"</string>
+    <string name="u_st_setup_t" formatted="false">"Selesaikan pengaturan awal"</string>
+    <string name="u_st_setup_d" formatted="false">"Ketuk untuk menghubungkan island ke Android"</string>
+    <string name="u_main_features" formatted="false">"Fitur Utama"</string>
+    <string name="u_see_all" formatted="false">"Lihat semua"</string>
+    <string name="u_tools" formatted="false">"Tools"</string>
+    <string name="u_others" formatted="false">"Lainnya"</string>
+    <string name="u_f_island" formatted="false">"Island"</string>
+    <string name="u_f_island_d" formatted="false">"Selalu tampil di status bar, bisa ditarik jadi panel."</string>
+    <string name="u_f_notif" formatted="false">"Notifikasi"</string>
+    <string name="u_f_notif_d" formatted="false">"Balas langsung, block all, dan banyak opsi lainnya."</string>
+    <string name="u_f_music" formatted="false">"Musik"</string>
+    <string name="u_f_music_d" formatted="false">"Kontrol musik, lirik online, dan progress bar."</string>
+    <string name="u_f_events" formatted="false">"Event iPhone"</string>
+    <string name="u_f_events_d" formatted="false">"Silent, Focus, senter, baterai, dan lainnya."</string>
+    <string name="u_f_timer" formatted="false">"Timer &amp; Alarm"</string>
+    <string name="u_f_timer_d" formatted="false">"Timer, stopwatch, dan alarm."</string>
+    <string name="u_f_pages" formatted="false">"Halaman Geser"</string>
+    <string name="u_f_pages_d" formatted="false">"WhatsApp, Jam, Cuaca, dll."</string>
+    <string name="u_t_weather" formatted="false">"Cuaca"</string>
+    <string name="u_t_weather_d" formatted="false">"Prakiraan per jam."</string>
+    <string name="u_t_clock" formatted="false">"Jam"</string>
+    <string name="u_t_clock_d" formatted="false">"Timer &amp; buat alarm."</string>
+    <string name="u_t_calendar" formatted="false">"Kalender"</string>
+    <string name="u_t_calendar_d" formatted="false">"Lihat &amp; buat acara."</string>
+    <string name="u_o_notes" formatted="false">"Catatan"</string>
+    <string name="u_o_notes_d" formatted="false">"Salin dan tempel."</string>
+    <string name="u_o_log" formatted="false">"Log Error"</string>
+    <string name="u_o_log_d" formatted="false">"Salin untuk diagnosis."</string>
+    <string name="u_splash_t" formatted="false">"Splash Video"</string>
+    <string name="u_splash_d" formatted="false">"Tampilan pembuka yang lebih keren."</string>
+    <string name="u_set_t" formatted="false">"Pengaturan"</string>
+    <string name="u_set_d" formatted="false">"Sesuaikan Fyland sesuai keinginanmu."</string>
+    <string name="u_feat_t" formatted="false">"Fitur"</string>
+    <string name="u_feat_d" formatted="false">"Semua yang bisa dilakukan Fyland."</string>
+    <string name="u_about_t" formatted="false">"Tentang"</string>
+    <string name="u_about_made" formatted="false">"Dibuat dari nol · tanpa iklan · tanpa akun"</string>
+    <string name="u_about_ver" formatted="false">"Versi"</string>
+    <string name="u_about_pkg" formatted="false">"Paket"</string>
+    <string name="u_g_appearance" formatted="false">"Tampilan &amp; Kustomisasi"</string>
+    <string name="u_r_size" formatted="false">"Ukuran &amp; Posisi Island"</string>
+    <string name="u_r_size_d" formatted="false">"Atur lebar, tinggi, dan jarak dari atas."</string>
+    <string name="u_r_land" formatted="false">"Mode Landscape"</string>
+    <string name="u_r_land_d" formatted="false">"Gunakan pil vertikal di mode landscape."</string>
+    <string name="u_r_anim" formatted="false">"Animasi &amp; Efek"</string>
+    <string name="u_r_anim_d" formatted="false">"Animasi spring dan blur."</string>
+    <string name="u_r_try" formatted="false">"Coba Semua Animasi"</string>
+    <string name="u_r_try_d" formatted="false">"Lihat demo animasi Fyland."</string>
+    <string name="u_g_notif" formatted="false">"Notifikasi"</string>
+    <string name="u_r_block" formatted="false">"Block All"</string>
+    <string name="u_r_block_d" formatted="false">"Hapus notifikasi bawaan, hanya island."</string>
+    <string name="u_r_quiet" formatted="false">"Redam Pop-up Bawaan"</string>
+    <string name="u_r_quiet_d" formatted="false">"Sembunyikan pop-up notifikasi sistem."</string>
+    <string name="u_r_lock" formatted="false">"Sembunyikan Isi Pesan"</string>
+    <string name="u_r_lock_d" formatted="false">"Jangan tampilkan isi pesan di lock screen."</string>
+    <string name="u_r_apps" formatted="false">"Aplikasi yang Ditampilkan"</string>
+    <string name="u_r_apps_d" formatted="false">"Pilih aplikasi yang muncul di island."</string>
+    <string name="u_r_dur" formatted="false">"Durasi Tampilan Notifikasi"</string>
+    <string name="u_r_dur_d" formatted="false">"Atur berapa lama notifikasi muncul."</string>
+    <string name="u_r_expand" formatted="false">"Buka Detail Otomatis"</string>
+    <string name="u_r_expand_d" formatted="false">"Buka detail notifikasi secara otomatis."</string>
+    <string name="u_r_content" formatted="false">"Tampilkan Isi Pesan"</string>
+    <string name="u_r_content_d" formatted="false">"Jika mati, island hanya menampilkan nama aplikasi."</string>
+    <string name="u_r_silent" formatted="false">"Notifikasi Senyap"</string>
+    <string name="u_r_silent_d" formatted="false">"Sertakan notifikasi tanpa suara."</string>
+    <string name="u_r_keepreply" formatted="false">"Pertahankan Notifikasi yang Bisa Dibalas"</string>
+    <string name="u_r_keepreply_d" formatted="false">"Nyalakan jika balasan lewat island gagal. Chat akan muncul dobel."</string>
+    <string name="u_g_music" formatted="false">"Musik"</string>
+    <string name="u_r_mctl" formatted="false">"Kontrol Musik"</string>
+    <string name="u_r_mctl_d" formatted="false">"Atur kontrol musik dan lirik online."</string>
+    <string name="u_g_system" formatted="false">"Sistem"</string>
+    <string name="u_r_conn" formatted="false">"Izin &amp; Koneksi"</string>
+    <string name="u_r_conn_d" formatted="false">"Hubungkan island ke Android."</string>
+    <string name="u_r_keep" formatted="false">"Selalu Aktif"</string>
+    <string name="u_r_keep_d" formatted="false">"Notifikasi senyap kecil agar island tidak dimatikan Android."</string>
+    <string name="u_r_enable" formatted="false">"Aktifkan Island"</string>
+    <string name="u_r_enable_d" formatted="false">"Tampilkan island saat notifikasi masuk."</string>
+    <string name="u_r_try_notif" formatted="false">"Coba notifikasi contoh"</string>
+    <string name="u_r_try_notif_d" formatted="false">"Tampilkan notifikasi contoh di island."</string>
+    <string name="u_g_portrait" formatted="false">"Potret"</string>
+    <string name="u_g_landscape" formatted="false">"Landscape"</string>
+    <string name="u_g_events" formatted="false">"Event"</string>
+    <string name="u_r_city" formatted="false">"Kota untuk cuaca"</string>
+    <string name="u_r_city_d" formatted="false">"Kosong = lokasi otomatis."</string>
+    <string name="u_r_cal" formatted="false">"Akses kalender"</string>
+    <string name="u_r_cal_d" formatted="false">"Dibutuhkan untuk melihat dan membuat acara dari island."</string>
+    <string name="u_r_pages_tools" formatted="false">"Isi halaman"</string>
+    <string name="u_r_pages_tools_d" formatted="false">"Aplikasi (WhatsApp, Jam, Perekam, Catatan, Musik), lalu Cuaca."</string>
+    <string name="u_st_overlay" formatted="false">"Tampil di atas aplikasi lain"</string>
+    <string name="u_st_listener" formatted="false">"Akses notifikasi"</string>
+    <string name="u_st_access" formatted="false">"Lapisan status bar"</string>
+    <string name="u_back" formatted="false">"Kembali"</string>
+    <string name="u_perm_ok" formatted="false">"Diizinkan"</string>
+    <string name="u_perm_todo" formatted="false">"Ketuk untuk mengizinkan"</string>
+    <string name="u_app_missing" formatted="false">"Aplikasi tidak ditemukan di HP ini."</string>
+    <string name="u_city_auto" formatted="false">"Lokasi otomatis"</string>
+    <string name="u_w_f" formatted="false">"Tampilkan Fahrenheit"</string>
+    <string name="u_w_f_d" formatted="false">"Mati: Celsius. Nyala: suhu dalam Fahrenheit."</string>
+    <string name="u_w_24" formatted="false">"Jam 24 jam"</string>
+    <string name="u_w_24_d" formatted="false">"Mati: 3PM. Nyala: 15:00 di prakiraan per jam."</string>
+</resources>

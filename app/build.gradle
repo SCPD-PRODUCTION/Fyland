@@ -1,0 +1,37 @@
+plugins { id 'com.android.application' }
+
+// Signing: kunci rilis TIDAK disimpan di repo.
+// Buat file `keystore.properties` (di-gitignore) di root proyek:
+//   storeFile=/path/ke/kunci-kamu.jks
+//   storePassword=...
+//   keyAlias=...
+//   keyPassword=...
+// Kalau file itu tidak ada, build memakai debug keystore bawaan Android
+// sehingga APK tetap bisa dibuild & dipasang untuk testing.
+def ksFile = rootProject.file('keystore.properties')
+def ks = new Properties()
+if (ksFile.exists()) ksFile.withInputStream { ks.load(it) }
+
+android {
+    namespace 'id.fyland'
+    compileSdk 35
+    defaultConfig { applicationId 'id.fyland'; minSdk 26; targetSdk 35; versionCode 1; versionName '1.0' }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+    signingConfigs {
+        if (ksFile.exists()) {
+            release {
+                storeFile file(ks['storeFile'])
+                storePassword ks['storePassword']
+                keyAlias ks['keyAlias']
+                keyPassword ks['keyPassword']
+            }
+        }
+    }
+    buildTypes {
+        release {
+            signingConfig ksFile.exists() ? signingConfigs.release : signingConfigs.debug
+            minifyEnabled false
+        }
+    }
+    lint { abortOnError false; checkReleaseBuilds false }
+}

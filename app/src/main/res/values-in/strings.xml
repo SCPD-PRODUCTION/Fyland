@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="s30" formatted="false">"Timer selesai"</string>
+    <string name="s41" formatted="false">"(belum ada error tercatat)"</string>
+    <string name="s59" formatted="false">"Headset Contoh"</string>
+    <string name="s63" formatted="false">"Panggilan masuk"</string>
+    <string name="s97" formatted="false">"Isi pesan disembunyikan di lock screen. Buka kunci untuk membaca."</string>
+    <string name="s98" formatted="false">"Isi pesan disembunyikan di pengaturan."</string>
+    <string name="s99" formatted="false">"Buka"</string>
+    <string name="s100" formatted="false">"Berikut"</string>
+    <string name="s101" formatted="false">"Tutup"</string>
+    <string name="s102" formatted="false">"Pemutar tidak mendukung geser posisi."</string>
+    <string name="s103" formatted="false">"Pemutar tidak menyediakan aksi ini."</string>
+    <string name="s107" formatted="false">"Balasan tidak tersedia pada notifikasi ini. Tekan Buka."</string>
+    <string name="s108" formatted="false">"Balas"</string>
+    <string name="s109" formatted="false">"Aksi"</string>
+    <string name="s110" formatted="false">"Aksi sudah tidak tersedia."</string>
+    <string name="s111" formatted="false">"Tulis balasan…"</string>
+    <string name="s112" formatted="false">"Balasan dikirim melalui aplikasi asal."</string>
+    <string name="s113" formatted="false">"Kirim"</string>
+    <string name="s114" formatted="false">"Batal"</string>
+    <string name="s115" formatted="false">"Isi balasan dahulu"</string>
+    <string name="s116" formatted="false">"Balasan sudah tidak tersedia. Buka aplikasi asal."</string>
+    <string name="s117" formatted="false">"Balasan diteruskan ke aplikasi asal"</string>
+    <string name="s118" formatted="false">"Gagal meneruskan balasan. Teks tetap ada; coba lagi atau buka aplikasi asal."</string>
+    <string name="s119" formatted="false">"LIRIK  ·  LRCLIB"</string>
+    <string name="s121" formatted="false">"Lirik online dimatikan. Aktifkan di pengaturan Fyland."</string>
+    <string name="s122" formatted="false">"Memuat lirik…"</string>
+    <string name="s126" formatted="false">"Lanjut"</string>
+    <string name="s127" formatted="false">"Jeda"</string>
+    <string name="s128" formatted="false">"Lap"</string>
+    <string name="s158" formatted="false">"Aksi panggilan tidak tersedia. Buka aplikasi telepon."</string>
+    <string name="s159" formatted="false">"Aksi panggilan sudah tidak tersedia."</string>
+    <string name="s160" formatted="false">"Panggilan masuk · "</string>
+    <string name="s161" formatted="false">"Panggilan berlangsung · "</string>
+    <string name="s162" formatted="false">"Notifikasi sudah kedaluwarsa. Buka aplikasi asal."</string>
+    <string name="s163" formatted="false">"Aktif"</string>
+    <string name="s164" formatted="false">"Dijeda"</string>
+    <string name="s165" formatted="false">"Suka"</string>
+    <string name="s166" formatted="false">"Acak"</string>
+    <string name="s167" formatted="false">"Lagu sebelumnya"</string>
+    <string name="s168" formatted="false">"Lagu berikutnya"</string>
+    <string name="s169" formatted="false">"Ulangi"</string>
+    <string name="s170" formatted="false">"Tambah"</string>
+    <string name="s171" formatted="false">"Putar"</string>
+    <string name="s173" formatted="false">"Fyland aktif"</string>
+    <string name="s174" formatted="false">"Island berjalan di latar belakang."</string>
+    <string name="s181" formatted="false">"Judul atau artis belum tersedia dari pemutar."</string>
+    <string name="s182" formatted="false">"Layanan lirik sedang membatasi permintaan. Coba lagi nanti."</string>
+    <string name="s187" formatted="false">"Lirik belum dapat dimuat. Periksa internet, lalu buka panel lagi."</string>
+    <string name="s193" formatted="false">"Layanan lirik membatasi permintaan. Coba lagi nanti."</string>
+    <string name="s194" formatted="false">"Lirik lagu ini belum tersedia di LRCLIB."</string>
+    <string name="s195" formatted="false">"Layanan lirik belum tersedia. Coba lagi nanti."</string>
+    <string name="s198" formatted="false">"Instrumental · tidak ada lirik."</string>
+    <string name="s201" formatted="false">"LRCLIB · lirik tanpa waktu sinkron"</string>
+    <string name="s202" formatted="false">"LRCLIB · lirik tersinkron"</string>
+    <string name="s205" formatted="false">"Lirik lagu; bergulir otomatis mengikuti waktu baris"</string>
+    <string name="s206" formatted="false">"Lirik belum tersedia."</string>
+    <string name="s209" formatted="false">"Contoh: Bandung (kosong = lokasi otomatis)"</string>
+    <string name="s211" formatted="false">"Kota untuk cuaca"</string>
+    <string name="s212" formatted="false">"Simpan"</string>
+    <string name="s216" formatted="false">"Izinkan pengaturan terbatas"</string>
+    <string name="s217" formatted="false">"Android memblokir izin ini untuk aplikasi yang dipasang dari file APK.\n\nDi halaman berikutnya: ketuk titik tiga \u22EE di kanan atas, pilih \"Izinkan pengaturan terbatas\", lalu konfirmasi. Setelah itu tekan Kembali; halaman izin yang tadi langsung terbuka otomatis."</string>
+    <string name="s219" formatted="false">"Buka izin ini melalui Pengaturan Android."</string>
+    <string name="s220" formatted="false">"Log error"</string>
+    <string name="s221" formatted="false">"Salin"</string>
+    <string name="s223" formatted="false">"Log disalin"</string>
+    <string name="s224" formatted="false">"Hapus"</string>
+    <string name="s226" formatted="false">"Notifikasi, musik, dan baterai.\nSatu tempat. Semua fitur gratis."</string>
+    <string name="s228" formatted="false">"●  Aktif · lapisan di atas status bar"</string>
+    <string name="s229" formatted="false">"●  Aktif · mode overlay biasa"</string>
+    <string name="s230" formatted="false">"●  Izin siap · menunggu koneksi Android"</string>
+    <string name="s231" formatted="false">"○  Selesaikan izin di bawah"</string>
+    <string name="s232" formatted="false">"01  /  MULAI DI SINI"</string>
+    <string name="s233" formatted="false">"Hubungkan island"</string>
+    <string name="s234" formatted="false">"Akses notifikasi untuk membaca pesan yang tampil. Izin overlay untuk menampilkannya di atas aplikasi lain."</string>
+    <string name="s235" formatted="false">"Tampilkan di atas aplikasi"</string>
+    <string name="s236" formatted="false">"Akses notifikasi"</string>
+    <string name="s237" formatted="false">"Lapisan di atas status bar"</string>
+    <string name="s238" formatted="false">"•  Izinkan pengaturan terbatas (Android 13+)"</string>
+    <string name="s239" formatted="false">"Di menu Aksesibilitas, pilih Fyland · lapisan status bar. Izin ini hanya untuk menggambar di atas bar; tidak membaca layar atau mengendalikan sentuhan."</string>
+    <string name="s240" formatted="false">"Aktifkan island"</string>
+    <string name="s241" formatted="false">"Tampilkan island saat notifikasi masuk."</string>
+    <string name="s243" formatted="false">"Coba notifikasi contoh"</string>
+    <string name="s244" formatted="false">"Pilih aplikasi"</string>
+    <string name="s245" formatted="false">"02  /  NOTIFIKASI"</string>
+    <string name="s246" formatted="false">"Block All · notifikasi bawaan"</string>
+    <string name="s247" formatted="false">"Notifikasi bawaan aplikasi dihapus langsung begitu masuk, jadi yang tampil hanya island. Chat yang bisa dibalas ikut dihapus (balasan lewat island tetap jalan). Musik, panggilan, alarm dan notifikasi menetap dipertahankan."</string>
+    <string name="s248" formatted="false">"Aktifkan Block All?"</string>
+    <string name="s249" formatted="false">"Notifikasi biasa akan dihapus dari panel Android begitu masuk dan hanya tampil di island. Salinannya disimpan sementara di memori island (maks. 30). Notifikasi panggilan, alarm, musik dan yang menetap dipertahankan. Layar mati atau terkunci: notifikasi tidak dihapus."</string>
+    <string name="s250" formatted="false">"Aktifkan"</string>
+    <string name="s251" formatted="false">"Redam pop-up bawaan"</string>
+    <string name="s252" formatted="false">"Saat Block All aktif, saluran notifikasi aplikasi diturunkan dari Tinggi ke Default supaya pop-up (heads-up) bawaan tidak muncul lagi. Suara tetap ada. Otomatis dikembalikan saat opsi ini atau Block All dimatikan."</string>
+    <string name="s253" formatted="false">"Pertahankan notifikasi yang bisa dibalas"</string>
+    <string name="s254" formatted="false">"Nyalakan jika balasan lewat island gagal pada aplikasi tertentu. Chat akan muncul dobel (island + bawaan)."</string>
+    <string name="s255" formatted="false">"Otomatis buka detail"</string>
+    <string name="s256" formatted="false">"Langsung bentangkan island saat notifikasi masuk."</string>
+    <string name="s257" formatted="false">"Tampilkan isi pesan"</string>
+    <string name="s258" formatted="false">"Jika dimatikan, island hanya menampilkan nama aplikasi."</string>
+    <string name="s259" formatted="false">"Notifikasi senyap"</string>
+    <string name="s260" formatted="false">"Sertakan notifikasi tanpa suara."</string>
+    <string name="s261" formatted="false">"Selalu aktif di latar belakang"</string>
+    <string name="s262" formatted="false">"Menampilkan notifikasi senyap kecil agar Android tidak mematikan island. Disarankan tetap menyala supaya island selalu tampil."</string>
+    <string name="s263" formatted="false">"Sembunyikan saat landscape"</string>
+    <string name="s264" formatted="false">"Jika mati, island tampil sebagai pil vertikal di sisi kamera saat landscape (seperti di game). Ketuk pil untuk membuka detail."</string>
+    <string name="s265" formatted="false">"Isi pesan di lock screen"</string>
+    <string name="s266" formatted="false">"Jika mati (disarankan), island di lock screen hanya menampilkan nama aplikasi, tanpa isi pesan dan tanpa tombol balas."</string>
+    <string name="s267" formatted="false">"Lama tampil"</string>
+    <string name="s268" formatted="false">" detik"</string>
+    <string name="s269" formatted="false">"03  /  UKURAN &amp; POSISI"</string>
+    <string name="s270" formatted="false">"Lebar pil"</string>
+    <string name="s271" formatted="false">"Lebar pil notifikasi"</string>
+    <string name="s272" formatted="false">"Tinggi pil"</string>
+    <string name="s273" formatted="false">"Jarak dari atas"</string>
+    <string name="s274" formatted="false">"Geser kiri / kanan"</string>
+    <string name="s275" formatted="false">"Jaga ruang ikon status bar"</string>
+    <string name="s276" formatted="false">"Lebar pil dibatasi ke ruang tengah. Ikon status bar asli tidak digeser atau disembunyikan. Panel detail dibuka dari tepi atas dan menutupi area bar jika izin lapisan status bar aktif."</string>
+    <string name="s277" formatted="false">"Ruang jam kiri"</string>
+    <string name="s278" formatted="false">"Ruang ikon kanan"</string>
+    <string name="s279" formatted="false">"Tutup status bar saat notifikasi"</string>
+    <string name="s280" formatted="false">"Saat ada notifikasi (portrait), ikon status bar asli ditutup strip hitam dan hanya jam di kiri serta baterai di kanan yang digambar ulang di samping island. Ikon asli tidak benar-benar dipindah. Perlu Lapisan status bar aktif."</string>
+    <string name="s281" formatted="false">"Jarak jam / baterai dari tepi"</string>
+    <string name="s282" formatted="false">"03b  /  LANDSCAPE"</string>
+    <string name="s283" formatted="false">"Tebal pil landscape"</string>
+    <string name="s284" formatted="false">"Panjang pil landscape"</string>
+    <string name="s285" formatted="false">"Jarak dari tepi layar"</string>
+    <string name="s286" formatted="false">"Geser naik / turun"</string>
+    <string name="s287" formatted="false">"04  /  GESER ISLAND &amp; POPUP"</string>
+    <string name="s288" formatted="false">"Halaman geser"</string>
+    <string name="s289" formatted="false">"Saat island kosong atau memutar musik, geser ke kiri: pilihan aplikasi (WhatsApp, Jam, Perekam, Catatan, Musik). Geser lagi untuk cuaca. Geser ke kanan tetap untuk membaca notifikasi."</string>
+    <string name="s290" formatted="false">"Alat bantu halaman geser"</string>
+    <string name="s291" formatted="false">"Cuaca memakai lokasi jaringan jika kota dikosongkan. Perekam suara menyimpan ke Music/Fyland."</string>
+    <string name="s292" formatted="false">"05  /  ALA iPHONE · ANIMASI &amp; EVENT"</string>
+    <string name="s293" formatted="false">"Animasi spring ala iPhone"</string>
+    <string name="s294" formatted="false">"Island melar dan menyusut dengan gerak pegas (sedikit memantul), konten muncul dengan zoom dan blur. Matikan jika HP terasa berat."</string>
+    <string name="s295" formatted="false">"Blur saat konten muncul"</string>
+    <string name="s296" formatted="false">"Android 12 ke atas. Matikan jika animasi patah-patah."</string>
+    <string name="s297" formatted="false">"Silent / Ring"</string>
+    <string name="s298" formatted="false">"Pil lonceng saat mode dering diganti."</string>
+    <string name="s300" formatted="false">"Focus / Jangan Ganggu"</string>
+    <string name="s301" formatted="false">"Pil bulan saat mode Jangan Ganggu dinyalakan atau dimatikan."</string>
+    <string name="s303" formatted="false">"Senter"</string>
+    <string name="s304" formatted="false">"Pil senter saat lampu senter dinyalakan atau dimatikan."</string>
+    <string name="s306" formatted="false">"Baterai lemah"</string>
+    <string name="s307" formatted="false">"Pil merah pada 20%, 10% dan 5% saat tidak dicas."</string>
+    <string name="s309" formatted="false">"Bluetooth tersambung"</string>
+    <string name="s310" formatted="false">"Pil headphone saat perangkat Bluetooth tersambung. Nama perangkat butuh izin Perangkat sekitar."</string>
+    <string name="s312" formatted="false">"Mikrofon dipakai"</string>
+    <string name="s313" formatted="false">"Titik oranye dengan gelombang selama ada aplikasi yang merekam suara. Hanya indikator; island tidak mendengar apa pun."</string>
+    <string name="s314" formatted="false">"Timer, stopwatch dan alarm"</string>
+    <string name="s315" formatted="false">"Pil hitung mundur dari notifikasi aplikasi jam. Ketuk untuk tombol Berhenti/Jeda."</string>
+    <string name="s317" formatted="false">"Face unlock terdeteksi di HP ini. "</string>
+    <string name="s318" formatted="false">"Face unlock tidak terdeteksi otomatis (sebagian merek menyembunyikannya); tetap bisa dinyalakan manual. "</string>
+    <string name="s319" formatted="false">"Pil dengan animasi pindai wajah dan ceklis muncul saat kunci layar terbuka cepat setelah layar menyala. Android tidak memberi tahu cara buka kunci, jadi ini perkiraan: sidik jari yang sangat cepat bisa ikut memicunya. Hanya untuk kunci layar aman (PIN, pola, atau biometrik)."</string>
+    <string name="s321" formatted="false">"Panggilan telepon"</string>
+    <string name="s322" formatted="false">"Panggilan masuk tampil dengan tombol Tolak dan Jawab; panggilan berjalan menampilkan durasi."</string>
+    <string name="s324" formatted="false">"Coba semua animasi"</string>
+    <string name="s325" formatted="false">"04  /  MUSIK &amp; DAYA"</string>
+    <string name="s326" formatted="false">"Kontrol musik"</string>
+    <string name="s327" formatted="false">"Baca sesi musik aktif. Judul, progres dan kontrol tampil selama sesi tersedia."</string>
+    <string name="s328" formatted="false">"Cover sebagai latar"</string>
+    <string name="s329" formatted="false">"Cover lagu tampil di belakang gradasi warna dominannya, di belakang lirik dan kontrol."</string>
+    <string name="s330" formatted="false">"Lebar pil musik"</string>
+    <string name="s331" formatted="false">"Lirik online saat panel dibuka"</string>
+    <string name="s332" formatted="false">"Ambil dari LRCLIB hanya setelah island musik diketuk. Judul, artis, album dan durasi lagu dikirim untuk pencarian; isi notifikasi dan balasan tidak dikirim."</string>
+    <string name="s333" formatted="false">"Pengisian daya"</string>
+    <string name="s334" formatted="false">"Tampilkan persentase saat charger terhubung."</string>
+    <string name="s336" formatted="false">"06  /  LOG ERROR"</string>
+    <string name="s337" formatted="false">"Mencatat error dari semua fitur island (notifikasi, musik, cuaca, perekam, kalender, Face Unlock, dan lainnya) beserta crash aplikasi. Salin lalu kirim untuk diagnosis."</string>
+    <string name="s338" formatted="false">"Lihat log error"</string>
+    <string name="s339" formatted="false">"Lihat log error ("</string>
+    <string name="s340" formatted="false">"Cara pakai"</string>
+    <string name="s341" formatted="false">"Ketuk pil untuk membuka detail; ketuk di luar panel untuk menutup. Tahan untuk membuka aplikasi asal. Geser kiri/kanan untuk notifikasi lain. Tekan Tutup untuk menghilangkan salinan dari island.\n\nDi Tecno, izinkan aktivitas latar belakang jika island berhenti setelah layar mati. Internet hanya untuk pencarian lirik LRCLIB ketika panel musik dibuka. Izin kamera, mikrofon, lokasi, kontak dan lainnya diminta otomatis saat aplikasi dibuka dan hanya dipakai fitur terkait. Mode lapisan status bar memakai aksesibilitas untuk menggambar saja. Aktifkan lapisan ini agar island selalu tampil sejak HP menyala dan di lock screen."</string>
+    <string name="s342" formatted="false">"FYLAND  1.0\nDibuat dari nol · tanpa iklan · tanpa akun"</string>
+    <string name="s368" formatted="false">"Aktifkan izin tampil di atas aplikasi dahulu."</string>
+    <string name="s369" formatted="false">"Aktifkan akses notifikasi dahulu, lalu coba lagi."</string>
+    <string name="s370" formatted="false">"Island lo sudah siap"</string>
+    <string name="s371" formatted="false">"Notifikasi tampil di sini. Ketuk untuk detail, tahan untuk membuka aplikasi."</string>
+    <string name="s372" formatted="false">"Aplikasi yang tampil di island"</string>
+    <string name="s407" formatted="false">"Notifikasi baru"</string>
+    <string name="s409" formatted="false">"Musik"</string>
+    <string name="s410" formatted="false">"Pemutar aktif"</string>
+    <string name="s412" formatted="false">"Pemutar musik"</string>
+    <string name="s423" formatted="false">"APLIKASI"</string>
+    <string name="s427" formatted="false">"Jam"</string>
+    <string name="s429" formatted="false">"Kalender"</string>
+    <string name="s430" formatted="false">"Perekam"</string>
+    <string name="s433" formatted="false">"Catatan"</string>
+    <string name="s434" formatted="false">"CUACA"</string>
+    <string name="s435" formatted="false">"Coba lagi"</string>
+    <string name="s436" formatted="false">"Memuat cuaca…"</string>
+    <string name="s440" formatted="false">"Pilih durasi dulu."</string>
+    <string name="s443" formatted="false">"− jam"</string>
+    <string name="s444" formatted="false">"+ jam"</string>
+    <string name="s445" formatted="false">"−5 mnt"</string>
+    <string name="s446" formatted="false">"+5 mnt"</string>
+    <string name="s447" formatted="false">"Buat alarm"</string>
+    <string name="s448" formatted="false">"Alarm "</string>
+    <string name="s449" formatted="false">" dibuat"</string>
+    <string name="s450" formatted="false">"Aplikasi jam di HP ini tidak bisa membuat alarm otomatis."</string>
+    <string name="s456" formatted="false">"(tanpa judul)"</string>
+    <string name="s457" formatted="false">"Izinkan akses kalender agar acara bisa dilihat dan dibuat langsung dari island."</string>
+    <string name="s458" formatted="false">"Izinkan kalender"</string>
+    <string name="s459" formatted="false">"SEGERA"</string>
+    <string name="s460" formatted="false">"Tidak ada acara 7 hari ke depan."</string>
+    <string name="s461" formatted="false">"Nama acara baru"</string>
+    <string name="s462" formatted="false">"−1 hari"</string>
+    <string name="s463" formatted="false">"+1 hari"</string>
+    <string name="s464" formatted="false">"+1 minggu"</string>
+    <string name="s465" formatted="false">"−1 jam"</string>
+    <string name="s466" formatted="false">"+1 jam"</string>
+    <string name="s467" formatted="false">"−15 mnt"</string>
+    <string name="s468" formatted="false">"+15 mnt"</string>
+    <string name="s469" formatted="false">"Simpan acara"</string>
+    <string name="s470" formatted="false">"Isi nama acara"</string>
+    <string name="s471" formatted="false">"Acara tersimpan: "</string>
+    <string name="s472" formatted="false">"Tidak bisa menyimpan. Pastikan ada kalender yang bisa diisi di HP ini."</string>
+    <string name="s474" formatted="false">"Ketik catatan…"</string>
+    <string name="s476" formatted="false">"Catatan masih kosong."</string>
+    <string name="s477" formatted="false">"Catatan disalin"</string>
+    <string name="s478" formatted="false">"Tempel"</string>
+    <string name="s479" formatted="false">"Papan klip kosong."</string>
+    <string name="s480" formatted="false">"Tidak bisa membaca papan klip."</string>
+    <string name="s481" formatted="false">"WhatsApp tidak ditemukan di HP ini."</string>
+    <string name="s485" formatted="false">"Agar WhatsApp tampil melayang, aktifkan \"Enable freeform windows\" di Opsi Pengembang lalu restart HP. Untuk sekarang yang dibuka jendela balas cepat."</string>
+    <string name="s486" formatted="false">"Tidak bisa membuka WhatsApp."</string>
+    <string name="s489" formatted="false">"🎵  Musik"</string>
+    <string name="s490" formatted="false">"🎙  Perekam suara"</string>
+    <string name="s492" formatted="false">"WhatsApp tidak ditemukan."</string>
+    <string name="s497" formatted="false">"WebView tidak tersedia; memakai daftar balas cepat."</string>
+    <string name="s498" formatted="false">"Belum ada pesan WhatsApp.\nPesan yang masuk muncul di sini dan bisa langsung dibalas."</string>
+    <string name="s499" formatted="false">"Buka WhatsApp"</string>
+    <string name="s500" formatted="false">"Balasan sudah tidak tersedia. Buka WhatsApp."</string>
+    <string name="s501" formatted="false">"\nAnda: "</string>
+    <string name="s502" formatted="false">"Balasan diteruskan ke WhatsApp"</string>
+    <string name="s503" formatted="false">"Gagal mengirim. Teks tetap ada; coba lagi atau buka WhatsApp."</string>
+    <string name="s504" formatted="false">"Belum ada musik yang diputar."</string>
+    <string name="s505" formatted="false">"Buka pemutar musik"</string>
+    <string name="s506" formatted="false">"Tidak ada pemutar musik."</string>
+    <string name="s507" formatted="false">"Tanpa judul"</string>
+    <string name="s509" formatted="false">"Ketuk untuk mulai merekam"</string>
+    <string name="s510" formatted="false">"Berhenti"</string>
+    <string name="s511" formatted="false">"Rekam"</string>
+    <string name="s512" formatted="false">"Izinkan mikrofon untuk Fyland dulu."</string>
+    <string name="s513" formatted="false">"Perekam tidak bisa dijalankan: "</string>
+    <string name="s515" formatted="false">"Perekam suara"</string>
+    <string name="s516" formatted="false">"Merekam suara"</string>
+    <string name="s517" formatted="false">"Layanan perekam tidak bisa dimulai."</string>
+    <string name="s522" formatted="false">"Merekam…"</string>
+    <string name="s523" formatted="false">"Gagal merekam: "</string>
+    <string name="s524" formatted="false">"izin mikrofon?"</string>
+    <string name="s525" formatted="false">"Tersimpan: Music/Fyland/"</string>
+    <string name="s554" formatted="false">"Kota \""</string>
+    <string name="s555" formatted="false">"\" tidak ditemukan."</string>
+    <string name="s561" formatted="false">"Lokasi belum diketahui. Isi kota di pengaturan."</string>
+    <string name="s575" formatted="false">"Tidak bisa memuat cuaca. Periksa koneksi internet."</string>
+    <string name="s591" formatted="false">"Server cuaca menjawab "</string>
+    <string name="s592" formatted="false">"Cerah"</string>
+    <string name="s593" formatted="false">"Cerah berawan"</string>
+    <string name="s594" formatted="false">"Berawan"</string>
+    <string name="s595" formatted="false">"Berkabut"</string>
+    <string name="s596" formatted="false">"Gerimis"</string>
+    <string name="s597" formatted="false">"Hujan"</string>
+    <string name="s598" formatted="false">"Salju"</string>
+    <string name="s599" formatted="false">"Hujan sebentar"</string>
+    <string name="s600" formatted="false">"Salju sebentar"</string>
+    <string name="s601" formatted="false">"Badai petir"</string>
+    <string name="s602" formatted="false">"Lokasi saya"</string>
+    <string name="s603" formatted="false">"Prakiraan per jam"</string>
+    <string name="access_label" formatted="false">"Fyland · lapisan status bar"</string>
+    <string name="listener_label" formatted="false">"Fyland · akses notifikasi"</string>
+    <string name="access_description" formatted="false">"Menampilkan Fyland pada lapisan visual di atas status bar. Layanan ini tidak membaca isi layar, tidak menerima peristiwa aksesibilitas, dan tidak mengendalikan sentuhan. Akses notifikasi diberikan secara terpisah."</string>
+</resources>
